@@ -1,0 +1,10 @@
+name: SimpleOverride
+main: com.feildmaster.simpleoverride.Plugin
+version: 1.0
+author: feildmaster
+
+permissions:
+  Override.BAN:
+    default: false
+  Override:
+    default: op
